@@ -1,5 +1,5 @@
 # brain-organoid-network-alignment
-Using small connected induced subgraphs (graphlets) to align effective connectivity networks derived from cerebral organoids.
+Using small connected induced subgraphs (graphlets) to align effective connectivity networks derived from cortical organoids.
 
 ## Procedure
 1. For each time point in a well time series, characterize the nodes based on their directed graphlet-orbit degree vector.\
